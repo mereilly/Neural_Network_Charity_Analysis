@@ -28,7 +28,7 @@ I randomly tested via brute force a ton of options at first. Then I considered r
 I tried to follow the rule of thumb for a basic neural network that suggests to have two to three times the amount of neurons in the hidden layer as the number of inputs. This meant to consider the length of the new imputs after dropping or readding columns/features/inputs. 
 
 Also, I often chose around 100 epochs and no more than 150 in the interest of time. With past examples I encountered it seemed that models reached optimal performance at around 100 epochs, so I focused around that number. I remembered one example that had a .07% increase in accuracy after adding layers and up to 500 epochs on Tensor Flow. Still, the second part of going to 500 epochs was time consuming, so I left that for the end, which only yeilded 55% accuracy after all. 
-![Screen Shot 2021-10-13 at 12 06 56 PM](https://user-images.githubusercontent.com/82982952/137171817-5e760ed0-5aad-49b0-b75f-56315fbd2d13.png)
+![Screen Shot 2021-10-13 at 12 07 07 PM](https://user-images.githubusercontent.com/82982952/137171953-0d5c26bb-0ac3-4b7a-8054-3b7557f03e4d.png)
 
 #### Were you able to achieve the target model performance?
 No, I was not able to acheive the target model preformance of 75% or above. 
